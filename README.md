@@ -1,2 +1,0 @@
-# MECM\SCCM Log Extractor
-
