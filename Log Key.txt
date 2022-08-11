@@ -1,0 +1,5 @@
+0 - "X:\windows\temp\smstslog\" - Before the hard disk is formatted 
+1 - "X:\smstslog\" - After the hard disk is formatted and then copied to location 2
+2 - "C:\_SMSTaskSequence\" - Before the SCCM client is installed
+3 - "C:\windows\ccm\logs\Smstslog\" - After the SCCM client is installed
+4 - "C:\windows\ccm\logs\" - When the Task sequence is complete
